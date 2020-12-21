@@ -131,7 +131,9 @@ ul{
 banner secton css 
 ====================================================================
 */
-
+.login-bg{
+background: #19283f;
+}
 .banner-bg-img{
     z-index: 0;
     position:relative;
